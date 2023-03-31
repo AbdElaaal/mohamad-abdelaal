@@ -8,7 +8,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="![giphy](https://user-images.githubusercontent.com/74356112/229153240-f6819e3d-8146-4e02-8931-ea0c14e5bcd1.gif)">
+<img align="right" alt="Coding" width="300" src="![image](https://user-images.githubusercontent.com/74356112/229153415-488972c6-ac6d-499d-a774-2e990b3bd2f0.png)>
 
 ## About Me :
 <br>
