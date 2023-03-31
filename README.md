@@ -18,4 +18,3 @@
 - Always `learning new things`
 
 
-Config files for my GitHub profile.
