@@ -6,7 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000DA&center=true&width=435&lines=Computer+Science+Student;Competitive+Programmer" alt="Typing SVG" /></a>
 </p>
 
-<br><br>
 
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477aim1ub62eskdvb61fixupn4hw1otnkyg517d2wp&rid=giphy.gif&ct=g">
 
