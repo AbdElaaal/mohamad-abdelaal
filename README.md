@@ -8,6 +8,8 @@
 
 <br>
 
+<img align="right" alt="Coding" width="300" src="![giphy](https://user-images.githubusercontent.com/74356112/229153240-f6819e3d-8146-4e02-8931-ea0c14e5bcd1.gif)">
+
 ## About Me :
 <br>
 
@@ -15,5 +17,6 @@
 - I’m Competitive Programmer at `CodeForces` 
 - I’m currently learning `Git & GitHub` 
 - Always `learning new things`
+
 
 Config files for my GitHub profile.
